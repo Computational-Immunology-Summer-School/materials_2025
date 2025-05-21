@@ -6,6 +6,12 @@ Adaptive Immune Receptor Repertoires (AIRRs) are central to the immune system’
 
 This course is designed for participants with a basic understanding of R and command-line tools. It offers a comprehensive foundation in AIRR data analysis, blending theoretical concepts with hands-on training in computational tools and laboratory methods. The curriculum includes advanced techniques in secondary data analysis and exposure to real-world research applications.
 
+## Location
+
+⏰ 28 July - 6 August 2025
+
+📍 Ravila 19, Tartu
+
 ---
 
 ## Schedule
